@@ -1,0 +1,9 @@
+{
+  "command.itrpminimal.start": "ITRP minimal capture started",
+  "command.itrpminimal.done": "ITRP minimal capture done",
+  "key.categories.itrp_minimal_capture": "Screenshot Manager",
+  "key.itrp_minimal_capture.open_menu": "Open capture menu",
+  "key.itrp_minimal_capture.force_cancel": "Force cancel capture/render",
+  "key.itrp_minimal_capture.run_preset": "Run saved capture preset",
+  "key.itrp_minimal_capture.preview_latest": "Preview latest screenshot"
+}
