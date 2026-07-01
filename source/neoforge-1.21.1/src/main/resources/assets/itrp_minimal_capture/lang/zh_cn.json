@@ -1,0 +1,9 @@
+{
+  "command.itrpminimal.start": "截图管理器已开始截图",
+  "command.itrpminimal.done": "截图管理器截图完成",
+  "key.categories.itrp_minimal_capture": "截图管理器",
+  "key.itrp_minimal_capture.open_menu": "打开截图管理器",
+  "key.itrp_minimal_capture.force_cancel": "强制取消截图/渲染",
+  "key.itrp_minimal_capture.run_preset": "运行保存的截图预设",
+  "key.itrp_minimal_capture.preview_latest": "预览最新截图"
+}
