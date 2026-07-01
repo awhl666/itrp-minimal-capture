@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.itrpminimal.capture.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinimalWindowAccessor",
+    "MinimalLevelRendererAccessor",
+    "MinimalPauseScreenMixin",
+    "MinimalTitleScreenButtonMixin",
+    "MinecraftTickFreezeMixin",
+    "ClientLevelTimeFreezeMixin",
+    "IrisCelestialUniformsFreezeMixin",
+    "IrisShadowRendererFreezeMixin",
+    "IrisWorldTimeUniformsFreezeMixin",
+    "DeltaTrackerPartialTickFreezeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
