@@ -1,0 +1,13 @@
+71ef1741efb86e166984326fb589566cd0f266522ec0dc1b9d2355382749cf5a  itrp-minimal-capture-fabric-1.21-0.3.19+fabric.jar
+157b27ce8f93615472f7b35622c39a8ab084261a2504c4843a500ef866767daf  itrp-minimal-capture-fabric-1.21.1-0.3.19+fabric.jar
+6a6bcc5f01d7e172b00f996fac022c8f9ba7fbaf04c417e9d417c39c7dcdb895  itrp-minimal-capture-fabric-1.21.10-0.3.19+fabric.jar
+30bf29c2f332e2ac2f8591af0ea5d3728060d6fdbc42515e328e2d4880ca09d7  itrp-minimal-capture-fabric-1.21.11-0.3.19+fabric.jar
+768f5f34d2a7d4367a4a07bcacd653bf983621b35ab136cf973b7fd444d7a905  itrp-minimal-capture-fabric-1.21.2-0.3.19+fabric.jar
+ff8af492edf2d22c5afa6b92bdf123a822170863b0f9cb84a081fcb9f9bcba8c  itrp-minimal-capture-fabric-1.21.3-0.3.19+fabric.jar
+7dba31cf62f2ccac4cd4c8c84cf4cfd83968e2b3c777b57c8eb4405ded2132b6  itrp-minimal-capture-fabric-1.21.4-0.3.19+fabric.jar
+6f91b8be33b5a39e776a12912eadb460b0c7d4388a37b2ddb8622da8acd761f7  itrp-minimal-capture-fabric-1.21.5-0.3.19+fabric.jar
+c68105ab19bda8f40965a3b49672eeb97315cf8783fcaa38e0d5c7c7261e9f79  itrp-minimal-capture-fabric-1.21.6-0.3.19+fabric.jar
+0c35eca6fc67b47aa2a9998e0349cb1940d633194719e536d2098a1490198a62  itrp-minimal-capture-fabric-1.21.7-0.3.19+fabric.jar
+590c75c2157c65b7c544cac6401d9a433dd09d9fb1136965d7ddc6c5726bc0c2  itrp-minimal-capture-fabric-1.21.8-0.3.19+fabric.jar
+c3b538f8e1c234f4e68a2ce0cce7beeb32b52e50d9fdc5a8ce0293db43abc23b  itrp-minimal-capture-fabric-1.21.9-0.3.19+fabric.jar
+54d34bbd855da7a02a4ebf7d5f49bd9f43c370076a4fbc5cfe269e50e3bf484e  itrp-minimal-capture-neoforge-0.3.19+mc1.21.1.jar
