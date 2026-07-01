@@ -1,0 +1,27 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "itrp_minimal_capture"
+version = "0.3.19+mc1.21.1"
+displayName = "Screenshot Manager"
+authors = "Operit, 阿韵"
+description = "Screenshot manager with pause-safe screens, adaptive small vanilla-menu buttons, normal capture, ITRP offline render settings, presets, and latest preview hotkey."
+
+[[mixins]]
+config = "itrp_minimal_capture.mixins.json"
+
+[[dependencies.itrp_minimal_capture]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.itrp_minimal_capture]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "CLIENT"
